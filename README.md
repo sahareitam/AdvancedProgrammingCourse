@@ -1,20 +1,15 @@
-# Bash & C Projects - Assignment 1 & 2
+# Programming Assignments Repository
 
 ## Overview
-This repository contains two separate assignments developed as part of a programming course. Each assignment demonstrates fundamental skills in Bash scripting and C programming.
+This repository contains two assignments created as part of a programming course. Each assignment focuses on different programming concepts and technologies, showcasing skills in C programming and Bash scripting.
+
+### Assignments
+1. **[Assignment 1 - Bash Script: bigBrother.sh](Assignment1/README.md)**  
+   A Bash script demonstrating foundational shell scripting skills by automating common tasks.
+
+2. **[Assignment 2 - C Programming: Pokémon Pokedex](Assignment2/README.md)**  
+   A simple Pokémon Pokedex system implemented in C, emphasizing modular design and efficient memory management.
 
 ---
 
-## 📜 Projects Included
-
-### **Assignment 1: Bash Script - bigBrother.sh**
-A foundational Bash script that automates specific tasks, demonstrating shell scripting concepts such as loops, conditionals, and file management.
-
-#### Key Features:
-- Automates system operations.
-- Demonstrates efficient Bash scripting for daily tasks.
-
-#### How to Run:
-1. Make the script executable:
-   ```bash
-   chmod +x bigBrother.sh
+## Repository Structure
